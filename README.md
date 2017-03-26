@@ -1,10 +1,11 @@
-# nspread-spreadsheet-for-ncurses
+
+nspread-spreadsheet-for-ncurses
+================================
+
+# Introduction
 nspread is a versatile spreadsheet for ncurses (using of asdf, hjkl)
 
-
-
-NSPREAD
-=========
+#  Key bindings 
 hjkl allows to move the user cell selection.
 asdf allows to scroll hor./vert.  selection without chaning cell selection.
 u and n allow to go up/down.
