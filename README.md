@@ -12,6 +12,6 @@ u and n allow to go up/down.
 [ and ] allow to expand the max. cell which are read.
 < and > allow to increase/decrease col size (selection).
 
+![alt tag](https://raw.githubusercontent.com/spartrekus/nspread-spreadsheet-for-ncurses/master/nspread.png)
 
-https://raw.githubusercontent.com/spartrekus/nspread-spreadsheet-for-ncurses/master/nspread.png
 
